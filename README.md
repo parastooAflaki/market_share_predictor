@@ -1,5 +1,7 @@
 # market_share_predictor
+
 ## Summary of work
+
 #### To keep track of the work please review the notebooks in the following order:
 ### 1. Dats_Analysis.ipynb :
 Analysing data and deciding which unnecessary features to drop
