@@ -1,8 +1,8 @@
 # market_share_predictor
 ## Summary of work
-#### to keep track of the work please review the notebooks in the following order:
+#### To keep track of the work please review the notebooks in the following order:
 ### 1. Dats_Analysis.ipynb :
-analysing data and deciding which unnecessary features to drop
+Analysing data and deciding which unnecessary features to drop
 ### 2. Train_Model.ipynb :
 Preprocessing the train data and evaluate different models (using 70% of train data for training and the rest 30% for testing the model) and compared their r2 score and mae to choose the best.
 as a result, the ensemble model __RandomForestRegressor__ is the best model for us.
